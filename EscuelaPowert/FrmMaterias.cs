@@ -20,7 +20,7 @@ namespace EscuelaPowert
         private void btnadd_Click(object sender, EventArgs e)
         {
             Frmaddmate F = new Frmaddmate();
-            F.ShowDialog();
+            F.Show();
         }
     }
 }
