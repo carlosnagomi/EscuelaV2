@@ -12,7 +12,7 @@ namespace EscuelaPowert.Grupos
 
         private string Nombre { get; set; }
 
-        private DateTime Ciclos { get; set; }
+        private DateTime Ciclo_Nombre { get; set; }
 
         public int id
         {
